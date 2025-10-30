@@ -1,0 +1,16 @@
+=== Portfolio Report ===
+Period     : 2015-01-31 -> 2025-01-31  (months: 120)
+Tickers    : AAPL, MSFT, AMZN, SPY, IWM
+Weights    : AAPL:0.2000  MSFT:0.2000  AMZN:0.2000  SPY:0.2000  IWM:0.2000  (sum=1)
+Rebalance  : Monthly
+Initial    : $10,000.00
+
+--- Performance (monthly data, annualized where relevant) ---
+Final Wealth                          : $71,370.49
+Compound Annual Growth Rate           : 21.72%
+Volatility (annual)                   : 18.99%
+Sharpe Ratio (excess over risk-free)  : 1.0433
+Max Drawdown                          : -28.81%
+
+Notes:
+- This report is for simulation; not investment advice.
